@@ -115,7 +115,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<blockquote><b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「 @𝙑𝙀𝙂𝘼𝙈𝙊𝙑𝙄𝙀𝙎𝙉𝙀𝙒𝙄𝙉 」</b></blockquote>"""
+    FILE_CAPTION = """<blockquote><b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「 @vegamoviesnewin 」</b></blockquote>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
